@@ -1,0 +1,9 @@
+.tab_content .tab-panel {
+  display: none;
+}
+.tab_content #content1 {
+  display: block;
+}
+.tab_content #content2 {
+  display: block;
+}
